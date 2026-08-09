@@ -14,16 +14,13 @@
  
 ---
  
-## 🚀 What I'm Up To
- 
-- 🌱 Currently learning **React** and **Node.js**
-- 👯 Looking to collaborate on **Full Stack / AI Projects**
-- 🤝 Seeking help with **Backend & AI Integration**
-- 💬 Ask me about **HTML, CSS, JavaScript, React, DSA**
-- 📫 Reach me at **satyamprdgy@gmail.com**
-- ⚡ Fun fact: I love solving DSA problems as much as crafting pixel-perfect UIs
- 
----
+🚀 What I'm Up To
+🌱 Currently learning React, Node.js and MongoDB
+👯 Looking to collaborate on Full Stack / AI Projects
+🤝 Seeking help with Backend & AI Integration
+💬 Ask me about HTML, CSS, JavaScript, React, SQL, DSA
+📫 Reach me at satyamprdgy@gmail.com
+⚡ Fun fact: I love solving DSA problems as much as crafting pixel-perfect UIs
  
 ## 🛠️ Tech Stack
  
@@ -32,31 +29,26 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
- 
-### Frameworks & Libraries
+
+### Frameworks & Libraries & Backend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
- 
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+## Database
+![Mongo db](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![mySql](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
- 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ---
  
-## 📊 GitHub Stats
- 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satyam-hub25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=satyam-hub25&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
-</div>
- 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyam-hub25&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
- 
----
+📊 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=satyam-hub25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" /> &nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs?username=satyam-hub25&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" /> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyam-hub25&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </div>
  
 ## 🏅 Competitive Programming
  
